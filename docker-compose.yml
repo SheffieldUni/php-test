@@ -1,0 +1,6 @@
+version: '3'
+services:
+  phpunit:
+    image: jitesoft/phpunit:7.4-9
+    volumes:
+      - .:/app
