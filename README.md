@@ -20,4 +20,4 @@ You'll need either a recent version of [Docker](https://www.docker.com/get-start
 
 If you're using Docker, it will first download the PHPUnit Docker image, then run the command.
 
-When the command has finished, you'll see some test output which indicates that a class method is returning an incorrect string. What should that text be and where would you change it?
+When the command has finished, you'll see some test output which indicates that a class method is returning an incorrect string. _What should that text be and where would you change it?_
