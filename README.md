@@ -7,7 +7,7 @@ According to the test, what string should be returned by the Motto class?
 
 ## Explanation
 
-The aim of this exercise is simply to explore a typical PHP testing setup with an optional bit of Docker thrown in.  There are no trick questions! At interview, we will discuss how you went about the solution.
+The aim of this exercise is simply to explore a typical PHP testing setup with an optional bit of Docker thrown in.  _There are no trick questions!_ At interview, we will discuss how you went about the solution.
 
 ## Set up
 
