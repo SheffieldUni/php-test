@@ -13,7 +13,7 @@ The aim of this exercise is simply to explore a typical PHP testing setup with a
 
 You'll need either a recent version of [Docker](https://www.docker.com/get-started) installed on your machine (tested on PC and Mac) __or__ PHPUnit (recommended version 9) and PHP (recommended version 7.4) available on your command line/prompt/shell.
 
-1. Clone the code from Github: `git clone git@github.com:SheffieldUni/php-test.git`
+1. Clone the code from Github: `git clone https://github.com/SheffieldUni/php-test.git`
 2. Change directory to the code folder: `cd php-test`
 3. Run __phpunit__ in Docker: `docker compose run phpunit phpunit`
 4. __OR__ Run with your locally installed PHP/PHPUnit: `phpunit`
